@@ -1,4 +1,4 @@
-// Bravo ! Pour conclure cette première série, tu vas recoder les différentes opérations de base de C.
+// Bravo ! Maintenant, tu vas recoder les différentes opérations de base de C.
 // Bonne chance !
 // Indice : modulo est le reste de la division euclidienne, et peut s'utiliser avec le symbole %.
 
